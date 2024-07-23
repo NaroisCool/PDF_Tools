@@ -5,3 +5,5 @@
 3. 创建一个同级的pdf处理完的接收文件夹。
 4. 运行python3 split_pdf.py即可
 
+# ocr_rename_pdf.py OCR识别pdf指定内容并重命名文件名
+
